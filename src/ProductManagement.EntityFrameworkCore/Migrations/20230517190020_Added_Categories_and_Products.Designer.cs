@@ -13,8 +13,8 @@ using Volo.Abp.EntityFrameworkCore;
 namespace ProductManagement.Migrations
 {
     [DbContext(typeof(ProductManagementDbContext))]
-    [Migration("20230517104819_Added_Categories_And_Products")]
-    partial class Added_Categories_And_Products
+    [Migration("20230517190020_Added_Categories_and_Products")]
+    partial class Added_Categories_and_Products
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

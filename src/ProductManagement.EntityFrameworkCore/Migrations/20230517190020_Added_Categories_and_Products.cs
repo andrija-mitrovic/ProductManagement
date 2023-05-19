@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProductManagement.Migrations
 {
     /// <inheritdoc />
-    public partial class Added_Categories_And_Products : Migration
+    public partial class Added_Categories_and_Products : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
